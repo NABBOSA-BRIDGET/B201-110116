@@ -1,0 +1,43 @@
+nav{ 
+    
+    padding-top: 30px;
+}
+h1{ color: rgb(174, 31, 174);
+    text-decoration: dotted;
+    text-indent: 10px;
+
+    
+}
+img{
+    border-radius: 180px;
+    height: auto;
+    width: auto;
+    align:right;
+}
+body{
+    margin-left: 95px;
+background-color: rgb(226, 43, 223);
+    border-image-repeat: stretch;
+    
+}
+p{
+    color: rgb(0, 8, 255);
+    text-decoration:solid;
+    font-size: 14px;
+    
+
+}
+h2{
+    color: gold; 
+    text-shadow: 5px ;
+
+
+}
+div{
+    justify-content: center;
+}
+.card{
+    margin-right: 180px;
+    justify-content: center;
+    background-color: lightblue;
+}
